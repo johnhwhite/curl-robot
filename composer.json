@@ -1,9 +1,9 @@
 {
-    "name": "stil/curl-robot",
+    "name": "johnhwhite/curl-robot",
     "description": "Parallel URL crawling extension to curl-easy.",
     "license": "MIT",
     "require": {
-        "stil/curl-easy": "~1.1.4"
+        "stil/curl-easy": "~1.2"
     },
     "autoload": {
         "psr-4": {
